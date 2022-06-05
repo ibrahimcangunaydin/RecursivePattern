@@ -8,7 +8,7 @@ each subtraction.
 * After the value of the number is <=0, add 5 to the number 
 again.
 * Print the last value of the number on the screen for each 
-addition operation. 
+addition operation until the entered value of n at first. 
 
 ### Scenario example:
 N number : 16
